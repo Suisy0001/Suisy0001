@@ -43,18 +43,32 @@
 ---
 
 <!------------------------->
-<div id="apoyo">
-<h2>Si quieres apoyarme 😻</h2>
-  <p align="left">
- <a href='https://cafecito.app/unsimpledev' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_1.png 1x, https://cdn.cafecito.app/imgs/buttons/button_1_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_1_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_1.png' alt='Invitame un café en cafecito.app' align="left" height="50" width="230"/></a>
-    
 
-    
-    
-<a href="https://ko-fi.com/unsimpledev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="unsimpledev" /></a>
-  </p>
-</div>
-  <br>
-<br><br>
+## Contact Me:
+
+Let's discuss your unique project needs, whether it's web scraping, data extraction, or automation. I am ready to collaborate and turn your vision into a reality. 🌟
+
+<section align="center" style="margin-left: 10px; margin-bottom: 27px;">
+	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.upwork.com/freelancers/dagima6">
+		<img src="https://www.svgrepo.com/show/349549/upwork.svg" width="45px">
+	</a>
+	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://github.com/progdagi">
+		<img src="https://www.svgrepo.com/show/512317/github-142.svg" width="45px">
+	</a>
+	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/dagim-alemu/">
+		<img src="https://www.svgrepo.com/show/138936/linkedin.svg" width="45px">
+	</a>
+	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://instagram.com/progdagi">
+		<img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="45px">
+	</a>
+	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://twitter.com/progdagi">
+		<img src="https://www.svgrepo.com/show/452123/twitter.svg" width="48px">
+	</a>
+	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="mail:dagimalemu@outlook.com">
+		<img src="https://www.svgrepo.com/show/249767/email-mail.svg" width="45px">
+	</a>
+</section>
+
+
 
 
