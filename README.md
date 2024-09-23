@@ -1,10 +1,6 @@
 <h1 align="center">Hi there my name it's Máximo </h1> 
 
-<p align="left">
-<a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
-<a href="www.linkedin.com/in/maximocristiano" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Maximocristiano"/></a>
-<a href = "mailto:maximocristiano2006@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@maximocristiano"  /></a>
-  </p>
+
 <br>
 <h2>About me 😃</h2>
 <!--Intro start-->
