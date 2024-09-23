@@ -7,17 +7,17 @@
 <a href = "mailto:maximocristiano2006@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@maximocristiano"  /></a>
   </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2>About me 😃</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 Grado medio en sistemas microoinformaticos
+🎓 Intermediate degree in microcomputer systems
 
-:pencil2: Cursando grado superior de desarrollo de aplicaciones multiplataforma
+:pencil2: Studying a higher degree in cross-platform application development
 
-💻 Realice las prácticas del grado medio en la empresa Cibinar donde aprendi a desenvolverme en el tema de la ciberseguridad realizando pentesting y aprendiendo python
+💻 I did my mid-level internship at the Cibinar company where I learned how to navigate the topic of cybersecurity by performing pentesting and learning python.
 
-📝 roles en el ámbito: desarrollador junior
+📝 roles in the field: junior developer
 
 📫 Contacto: **maximocristiano2006@gmail.com**
 <!--Intro end-->
