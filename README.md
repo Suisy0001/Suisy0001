@@ -16,11 +16,9 @@
 
 :pencil2: Cursando grado superior de desarrollo de aplicaciones multiplataforma
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
-
 💻 Realice las prácticas del grado medio en la empresa Cibinar donde aprendi a desenvolverme en el tema de la ciberseguridad realizando pentesting y aprendiendo python
 
-📝 roles en el ámbito: desarrollador... programador 
+📝 roles en el ámbito: desarrollador junior
 
 📫 Contacto: **maximocristiano2006@gmail.com**
 <!--Intro end-->
