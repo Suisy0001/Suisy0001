@@ -50,10 +50,10 @@ Let's discuss your unique project needs, whether it's web scraping, data extract
 	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://instagram.com/maxiimoprezz">
 		<img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="45px">
 	</a>
-	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://twitter.com/progdagi">
+	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://twitter.com/maxiimoprezz">
 		<img src="https://www.svgrepo.com/show/452123/twitter.svg" width="48px">
 	</a>
-	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="mail:dagimalemu@outlook.com">
+	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="mail:maximocristiano2006@gmail.com">
 		<img src="https://www.svgrepo.com/show/249767/email-mail.svg" width="45px">
 	</a>
 </section>
