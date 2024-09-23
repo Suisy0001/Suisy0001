@@ -27,8 +27,6 @@
 <!-------------------------->
 <div id="proyectos">
 
-<br><br>
-
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31es7gcu5n5w57niumfd32xuhh3u)
