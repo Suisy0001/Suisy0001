@@ -58,7 +58,7 @@ Let's discuss your unique project needs, whether it's web scraping, data extract
 	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/maximo-cristiano/">
 		<img src="https://www.svgrepo.com/show/138936/linkedin.svg" width="45px">
 	</a>
-	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://instagram.com/progdagi">
+	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://instagram.com/maxiimoprezz">
 		<img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="45px">
 	</a>
 	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://twitter.com/progdagi">
