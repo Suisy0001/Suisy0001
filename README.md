@@ -1,7 +1,6 @@
 <h1 align="center">Hi there my name it's Máximo </h1> 
 
 
-<br>
 <h2>About me 😃</h2>
 <!--Intro start-->
 
