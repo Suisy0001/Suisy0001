@@ -40,10 +40,8 @@
 Let's discuss your unique project needs, whether it's web scraping, data extraction, or automation. I am ready to collaborate and turn your vision into a reality. 🌟
 
 <section align="center" style="margin-left: 10px; margin-bottom: 27px;">
-	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.upwork.com/freelancers/dagima6">
-		<img src="https://www.svgrepo.com/show/349549/upwork.svg" width="45px">
 	</a>
-	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://github.com/progdagi">
+	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://github.com/Suisy0001">
 		<img src="https://www.svgrepo.com/show/512317/github-142.svg" width="45px">
 	</a>
 	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/maximo-cristiano/">
