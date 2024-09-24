@@ -16,7 +16,7 @@
   </p>
 <br>
 
-<h2 >known technologie👨🏻‍💻</h2>
+<h2 >known technologies👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -37,7 +37,7 @@
 
 ## Contact Me:
 
-Let's discuss your unique project needs, whether it's web scraping, data extraction, or automation. I am ready to collaborate and turn your vision into a reality. 🌟
+Contact me through the following means. 🌟
 
 <section align="center" style="margin-left: 10px; margin-bottom: 27px;">
 	</a>
