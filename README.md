@@ -5,7 +5,7 @@
 <p align="left">
 🎓 Intermediate degree in microcomputer systems
 
-:pencil2: Studying a higher degree in cross-platform application development
+:pencil2: Studying a higher degree in Systems and Networks administration
 
 💻 I did my mid-level internship at the Cibinar company where I learned how to navigate the topic of cybersecurity by performing pentesting and learning python.
 
