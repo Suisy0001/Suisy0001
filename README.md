@@ -46,9 +46,6 @@ Contact me through the following means. 🌟
 	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/maximo-cristiano/">
 		<img src="https://www.svgrepo.com/show/138936/linkedin.svg" width="45px">
 	</a>
-	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://instagram.com/maxiimoprezz">
-		<img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="45px">
-	</a>
 	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://twitter.com/maxiimoprezz">
 		<img src="https://www.svgrepo.com/show/452123/twitter.svg" width="48px">
 	</a>
