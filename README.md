@@ -9,8 +9,7 @@
 
 💻 I did my mid-level internship at the Cibinar company where I learned how to navigate the topic of cybersecurity by performing pentesting and learning python.
 
-📝 roles in the field: junior developer
-
+📝 roles in the field: pentester and cibersecurity analist
 📫 Contact: **maximocristiano2006@gmail.com**
 <!--Intro end-->
   </p>
